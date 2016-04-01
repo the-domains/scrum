@@ -1,7 +1,7 @@
 name: Scrum
 favicon: null
 layout_spectrum: 0.15108680026605725
-typography_spectrum: 0.9918521295767277
+typography_spectrum: 1
 title: A Journey Into Scrum
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#d5d6d8'
+    - '#121627'
+    - '#3c445c'
+    - '#777a74'
+    - '#dc5b00'
   brandStrength: 0.12963504064828157
   lightness: 0.38301505194976926
   saturation: 0.7215480275917798
